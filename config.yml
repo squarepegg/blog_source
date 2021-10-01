@@ -1,6 +1,6 @@
 baseURL: https://www.squarepe.gg/
 languageCode: en-us
-title: Nic's blog
+title: Nic's discomfort zone
 paginate: 5
 theme: PaperMod
 
@@ -15,8 +15,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: SquarePegg
-    description: "squarepegg blogging about all things awesome and squiggly"
+    title: Drinking from the Taplytics firehose
+    description: "Blogging about the squiggly geeky things that make my head hurt"
     keywords: [Blog, Portfolio, PaperMod]
     author: Nic Pegg
     # author: ["Me", "You"] # multiple authors

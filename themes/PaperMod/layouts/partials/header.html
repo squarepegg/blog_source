@@ -49,7 +49,6 @@
                 <img src="{{- .Site.Params.label.icon -}}" alt="logo" aria-label="logo"
                     height="{{- .Site.Params.label.iconHeight | default " 30px" -}}">
                 {{- end -}}
-                {{- $label_text -}}
             </a>
             {{- end }}
             <span class="logo-switches">
@@ -116,6 +115,7 @@
                 </a>
             </li>
             {{- end }}
+            {{ partial "social_icons.html" $.Site.Params.socialIcons }}
         </ul>
     </nav>
 </header>

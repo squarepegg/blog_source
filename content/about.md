@@ -1,5 +1,11 @@
 ---
 title: "About"
-date: 2021-09-30T14:33:19-07:00
+type: "page"
+layout: "baseof"
+description: "Nic is a Staff Engineer at Taplytics and has decided to post all the new things he's learning.    
+
+
+  
+Outside of work, Nic loves his family, mtb and mixing."
 ---
 
