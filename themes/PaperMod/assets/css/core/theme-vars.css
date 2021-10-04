@@ -1,5 +1,5 @@
 :root {
-    --gap: 24px;
+    --gap: 12px;
     --content-gap: 20px;
     --nav-width: 1024px;
     --main-width: 720px;
@@ -29,7 +29,7 @@
     --border: rgb(51, 51, 51);
 }
 
-.list {
+#top, .list {
     background: var(--code-bg);
 }
 
